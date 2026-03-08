@@ -1,5 +1,3 @@
-This is a readme file for the tableau project.
-
 ## Description
 
 This project is an analysis of merchandise sales from provided datasets, followed by visualisation of gained insights in the Tableau environment.
