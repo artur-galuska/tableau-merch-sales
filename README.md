@@ -1,3 +1,7 @@
+<p>
+  <img src="https://img.shields.io/badge/-Tableau-2f0b61?style=flat"/>
+</p>
+
 ## Description
 
 This project is an analysis of merchandise sales in years 2023/2024 from the provided datasets, followed by visualisation of gained insights in the Tableau environment.
@@ -27,9 +31,3 @@ Dashboards have parameters which allow the user to dynamically adjust the type o
 ## Credits
 
 This project was created as part of my studies of Data Analysis course on [ITOnlineLearning](https://www.itonlinelearning.com/)
-
-## Badges
-
-<p>
-  <img src="https://img.shields.io/badge/-Tableau-2f0b61?style=flat"/>
-</p>
