@@ -1,5 +1,5 @@
 <p>
-  <img src="https://img.shields.io/badge/-Tableau-2f0b61?style=flat"/>
+  <img src="https://img.shields.io/badge/Tableau-100%25-darkblue?labelColor=2f0b61&style=flat"/>
 </p>
 
 ## Description
