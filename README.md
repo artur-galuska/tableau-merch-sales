@@ -11,9 +11,7 @@ The project served as a learning experience and a practical example of how analy
 During my work on this project I have learned how to use a new tool - Tableau, as an alternative to Power BI - in helping me analyse and visualise datasets.
 It provided me with hands-on experience in working with Dimensions, Attributes, Measures, Parameters, and of course with building the Dashboards, to name a few.
 
-## Demo
-
-Live demo [link](https://public.tableau.com/shared/PTHKDZG2G?:display_count=n&:origin=viz_share_link)
+[Live demo](https://public.tableau.com/shared/PTHKDZG2G?:display_count=n&:origin=viz_share_link)
 
 ## Usage
 
